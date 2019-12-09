@@ -1,2 +1,2 @@
-console.error( "Guidance please!" 
+console.error( "Guidance please!"
 )
